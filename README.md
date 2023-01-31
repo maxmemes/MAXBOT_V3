@@ -5,10 +5,10 @@
 <img src="https://telegra.ph/file/b0f1e7622f1e11f1bbd6d.jpg" width="300" height="300"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Queen+Elisa+Whatsapp+Bot" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Max+Whatsapp+Bot" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-AUSTIN_MAX-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/darkmakerofc?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
@@ -19,15 +19,15 @@
 
 <b>Version --> 3.3.0</b>
 # 
-Queen elisa whatsapp bot is,
+Max whatsapp bot is,
 A very good bot that you can use in whatsapp.
 
 # 
 
-* 𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘
+* 𝗠𝗔𝗫 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘
 
 <p align="left">
-<a href="http://www.queenelisa.42web.io"><img align="center" src="https://telegra.ph/file/8b7c4a9bbaae67b1b2e0e.png" alt="VISIT QUEEN ELISA WEBSITE" height="35" width="150" /></a>
+<a href="http://atom.bio"><img align="center" src="https://telegra.ph/file/8b7c4a9bbaae67b1b2e0e.png" alt="VISIT MAXMODS WEBSITE" height="35" width="150" /></a>
 </p align="left">
 
 # 
@@ -55,7 +55,7 @@ A very good bot that you can use in whatsapp.
           https://heroku.com/deploy?template=
 
 
-## [`WATCH YOUTUBE VIDEO`](youtube.com/MRNIMAOFC)
+## [`WATCH YOUTUBE VIDEO`](youtube.com/@maxmodss)
 
 # 
 # 
@@ -73,12 +73,9 @@ A very good bot that you can use in whatsapp.
 # 
 # 
 
-THANAKS FOR USNING QUEEN ELISA 💃💖
+THANAKS FOR USING MAX BOT 💃💖
 
 [🧑‍💻 Join Queen Elisa Support Group 🧑‍💻](https://t.me/+Fc2vyKYBjFk3ZWZl)
-
-[🦄 Join Public Group 🦄](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
-
 
 
 <h1>💗</h1> 
