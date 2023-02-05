@@ -81,7 +81,7 @@ global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
 global.NO_BLOCK = ["265997133051","265997133051"]
 // Offline
-global.BOT_OFFLINE = true
+global.BOT_OFFLINE = 'true'
 
 
 
