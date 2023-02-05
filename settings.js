@@ -16,11 +16,11 @@ global.AUTO_BIO =  'on'
 //👇 Inbox massage block PM block
 global.INBOX_BLOCK =  'off'
 //👇 Auto react 
-global.AUTO_REACT =  'true'
+global.AUTO_REACT =  'false'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  'MAX-BOT-MD-V3' 
+global.botnma =  '*MAX-BOT-MD-V3*' 
 //👇 Your name
 global.ownernma =  '*AUSTIN MAX*' 
 //👇 Sticker package name
@@ -28,7 +28,7 @@ global.packname =  'MAXBOT MD'
 //👇 Sticker Author Name
 global.author =  'AUSTIN MAX' 
 //👇 Kick And Auto Delete Group link Senders
-global.antilink =  'false'
+global.antilink =  'true'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -80,7 +80,8 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || false
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
 global.NO_BLOCK = ["265997133051","265997133051"]
-
+// Offline
+global.BOT_OFFLINE = true
 
 
 
@@ -144,7 +145,7 @@ global.APIKeys = {
 }
 
 global.thumb = fs.readFileSync('./Media/image/Elisa.jpg')
-global.alivelogo = `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+global.alivelogo = `https://telegra.ph/file/b0f1e7622f1e11f1bbd6d.jpg`
 global.imgalive = fs.readFileSync('./Media/image/Elisa.jpg')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
