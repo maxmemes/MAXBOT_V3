@@ -108,7 +108,7 @@ global.mess = {
     group: '*This command can only be used in groups !*',
     private: '*This command can only be used in Inbox !*',
     bot: '*This command can only be used by bot number !*',
-    wait: '*♲ Please Wait MaxBot is Processing....*',
+    wait: '*♲ Please Wait MaxBot is Processing....*\n\n*⚖️  Instagram  ⚖️*\n\n\n_While we are delivering what you want please try also to follow us on Instagram..._\n\nhttps://www.instagram.com/maxmemes.inc?r=nametag',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
     BLOCK : '',
